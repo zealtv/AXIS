@@ -1,0 +1,213 @@
+/System/Library/Extensions/360Controller.kext/Contents/_CodeSignature/CodeDirectory
+/System/Library/Extensions/360Controller.kext/Contents/_CodeSignature/CodeRequirements
+/System/Library/Extensions/360Controller.kext/Contents/_CodeSignature/CodeResources
+/System/Library/Extensions/360Controller.kext/Contents/_CodeSignature/CodeSignature
+/System/Library/Extensions/360Controller.kext/Contents/_CodeSignature
+/System/Library/Extensions/360Controller.kext/Contents/Info.plist
+/System/Library/Extensions/360Controller.kext/Contents/MacOS/360Controller
+/System/Library/Extensions/360Controller.kext/Contents/MacOS
+/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/_CodeSignature/CodeResources
+/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/_CodeSignature
+/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Info.plist
+/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/MacOS/Feedback360
+/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/MacOS
+/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Resources/English.lproj/InfoPlist.strings
+/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Resources/English.lproj
+/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Resources
+/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents
+/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin
+/System/Library/Extensions/360Controller.kext/Contents/PlugIns
+/System/Library/Extensions/360Controller.kext/Contents/Resources/English.lproj/InfoPlist.strings
+/System/Library/Extensions/360Controller.kext/Contents/Resources/English.lproj
+/System/Library/Extensions/360Controller.kext/Contents/Resources
+/System/Library/Extensions/360Controller.kext/Contents
+/System/Library/Extensions/360Controller.kext
+/System/Library/Extensions/Wireless360Controller.kext/Contents/_CodeSignature/CodeDirectory
+/System/Library/Extensions/Wireless360Controller.kext/Contents/_CodeSignature/CodeRequirements
+/System/Library/Extensions/Wireless360Controller.kext/Contents/_CodeSignature/CodeResources
+/System/Library/Extensions/Wireless360Controller.kext/Contents/_CodeSignature/CodeSignature
+/System/Library/Extensions/Wireless360Controller.kext/Contents/_CodeSignature
+/System/Library/Extensions/Wireless360Controller.kext/Contents/Info.plist
+/System/Library/Extensions/Wireless360Controller.kext/Contents/MacOS/Wireless360Controller
+/System/Library/Extensions/Wireless360Controller.kext/Contents/MacOS
+/System/Library/Extensions/Wireless360Controller.kext/Contents/Resources/English.lproj/InfoPlist.strings
+/System/Library/Extensions/Wireless360Controller.kext/Contents/Resources/English.lproj
+/System/Library/Extensions/Wireless360Controller.kext/Contents/Resources
+/System/Library/Extensions/Wireless360Controller.kext/Contents
+/System/Library/Extensions/Wireless360Controller.kext
+/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/_CodeSignature/CodeDirectory
+/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/_CodeSignature/CodeRequirements
+/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/_CodeSignature/CodeResources
+/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/_CodeSignature/CodeSignature
+/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/_CodeSignature
+/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Info.plist
+/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/MacOS/WirelessGamingReceiver
+/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/MacOS
+/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Resources/English.lproj/InfoPlist.strings
+/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Resources/English.lproj
+/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Resources
+/System/Library/Extensions/WirelessGamingReceiver.kext/Contents
+/System/Library/Extensions/WirelessGamingReceiver.kext
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/_CodeSignature/CodeResources
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/_CodeSignature
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/Info.plist
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/MacOS/Pref360Control
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/MacOS
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt0.tif
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt1.tif
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt2.tif
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt3.tif
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/battNone.tif
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/DriverTool
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/InfoPlist.strings
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/Pref360ControlPref.tiff
+/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources
+/Library/PreferencePanes/Pref360Control.prefPane/Contents
+/Library/PreferencePanes/Pref360Control.prefPane
+Checksumming Driver Descriptor Map (DDM : 0)…
+     Driver Descriptor Map (DDM : 0): verified   CRC32 $768E3FC7
+Checksumming Apple (Apple_partition_map : 1)…
+     Apple (Apple_partition_map : 1): verified   CRC32 $A4EB60B6
+Checksumming disk image (Apple_HFS : 2)…
+          disk image (Apple_HFS : 2): verified   CRC32 $E51E1E4B
+Checksumming  (Apple_Free : 3)…
+                    (Apple_Free : 3): verified   CRC32 $00000000
+verified   CRC32 $213DEB06
+/dev/disk1          	Apple_partition_scheme         	
+/dev/disk1s1        	Apple_partition_map            	
+/dev/disk1s2        	Apple_HFS                      	/Volumes/360ControllerInstall
+/Volumes/360ControllerInstall/Install360Controller.pkg/Contents/Archive.pax.gz -> ./Archive.pax.gz
+360ControllerTemp/ -> /
+360ControllerTemp//Library -> //Library
+360ControllerTemp//Library/PreferencePanes -> //Library/PreferencePanes
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane -> //Library/PreferencePanes/Pref360Control.prefPane
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents -> //Library/PreferencePanes/Pref360Control.prefPane/Contents
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Info.plist -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Info.plist
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/MacOS -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/MacOS
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/MacOS/Pref360Control -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/MacOS/Pref360Control
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt0.tif -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt0.tif
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt1.tif -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt1.tif
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt2.tif -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt2.tif
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt3.tif -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt3.tif
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/battNone.tif -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/battNone.tif
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/InfoPlist.strings -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/InfoPlist.strings
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib/classes.nib -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib/classes.nib
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib/info.nib -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib/info.nib
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib/keyedobjects.nib -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib/keyedobjects.nib
+360ControllerTemp//Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/Pref360ControlPref.tiff -> //Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/Pref360ControlPref.tiff
+360ControllerTemp//Library/StartupItems -> //Library/StartupItems
+360ControllerTemp//Library/StartupItems/360ControlDaemon -> //Library/StartupItems/360ControlDaemon
+360ControllerTemp//Library/StartupItems/360ControlDaemon/360ControlDaemon -> //Library/StartupItems/360ControlDaemon/360ControlDaemon
+360ControllerTemp//Library/StartupItems/360ControlDaemon/360Daemon -> //Library/StartupItems/360ControlDaemon/360Daemon
+360ControllerTemp//Library/StartupItems/360ControlDaemon/Resources -> //Library/StartupItems/360ControlDaemon/Resources
+360ControllerTemp//Library/StartupItems/360ControlDaemon/Resources/Alert.tif -> //Library/StartupItems/360ControlDaemon/Resources/Alert.tif
+360ControllerTemp//Library/StartupItems/360ControlDaemon/StartupParameters.plist -> //Library/StartupItems/360ControlDaemon/StartupParameters.plist
+360ControllerTemp//System -> //System
+360ControllerTemp//System/Library -> //System/Library
+360ControllerTemp//System/Library/Extensions -> //System/Library/Extensions
+360ControllerTemp//System/Library/Extensions/360Controller.kext -> //System/Library/Extensions/360Controller.kext
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents -> //System/Library/Extensions/360Controller.kext/Contents
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/Info.plist -> //System/Library/Extensions/360Controller.kext/Contents/Info.plist
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/MacOS -> //System/Library/Extensions/360Controller.kext/Contents/MacOS
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/MacOS/360Controller -> //System/Library/Extensions/360Controller.kext/Contents/MacOS/360Controller
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/PlugIns -> //System/Library/Extensions/360Controller.kext/Contents/PlugIns
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin -> //System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents -> //System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Info.plist -> //System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Info.plist
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/MacOS -> //System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/MacOS
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/MacOS/Feedback360 -> //System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/MacOS/Feedback360
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Resources -> //System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Resources
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Resources/English.lproj -> //System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Resources/English.lproj
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Resources/English.lproj/InfoPlist.strings -> //System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Resources/English.lproj/InfoPlist.strings
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/Resources -> //System/Library/Extensions/360Controller.kext/Contents/Resources
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/Resources/English.lproj -> //System/Library/Extensions/360Controller.kext/Contents/Resources/English.lproj
+360ControllerTemp//System/Library/Extensions/360Controller.kext/Contents/Resources/English.lproj/InfoPlist.strings -> //System/Library/Extensions/360Controller.kext/Contents/Resources/English.lproj/InfoPlist.strings
+360ControllerTemp//System/Library/Extensions/Wireless360Controller.kext -> //System/Library/Extensions/Wireless360Controller.kext
+360ControllerTemp//System/Library/Extensions/Wireless360Controller.kext/Contents -> //System/Library/Extensions/Wireless360Controller.kext/Contents
+360ControllerTemp//System/Library/Extensions/Wireless360Controller.kext/Contents/Info.plist -> //System/Library/Extensions/Wireless360Controller.kext/Contents/Info.plist
+360ControllerTemp//System/Library/Extensions/Wireless360Controller.kext/Contents/MacOS -> //System/Library/Extensions/Wireless360Controller.kext/Contents/MacOS
+360ControllerTemp//System/Library/Extensions/Wireless360Controller.kext/Contents/MacOS/Wireless360Controller -> //System/Library/Extensions/Wireless360Controller.kext/Contents/MacOS/Wireless360Controller
+360ControllerTemp//System/Library/Extensions/Wireless360Controller.kext/Contents/Resources -> //System/Library/Extensions/Wireless360Controller.kext/Contents/Resources
+360ControllerTemp//System/Library/Extensions/Wireless360Controller.kext/Contents/Resources/English.lproj -> //System/Library/Extensions/Wireless360Controller.kext/Contents/Resources/English.lproj
+360ControllerTemp//System/Library/Extensions/Wireless360Controller.kext/Contents/Resources/English.lproj/InfoPlist.strings -> //System/Library/Extensions/Wireless360Controller.kext/Contents/Resources/English.lproj/InfoPlist.strings
+360ControllerTemp//System/Library/Extensions/WirelessGamingReceiver.kext -> //System/Library/Extensions/WirelessGamingReceiver.kext
+360ControllerTemp//System/Library/Extensions/WirelessGamingReceiver.kext/Contents -> //System/Library/Extensions/WirelessGamingReceiver.kext/Contents
+360ControllerTemp//System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Info.plist -> //System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Info.plist
+360ControllerTemp//System/Library/Extensions/WirelessGamingReceiver.kext/Contents/MacOS -> //System/Library/Extensions/WirelessGamingReceiver.kext/Contents/MacOS
+360ControllerTemp//System/Library/Extensions/WirelessGamingReceiver.kext/Contents/MacOS/WirelessGamingReceiver -> //System/Library/Extensions/WirelessGamingReceiver.kext/Contents/MacOS/WirelessGamingReceiver
+360ControllerTemp//System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Resources -> //System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Resources
+360ControllerTemp//System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Resources/English.lproj -> //System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Resources/English.lproj
+360ControllerTemp//System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Resources/English.lproj/InfoPlist.strings -> //System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Resources/English.lproj/InfoPlist.strings
+Archive.pax
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Info.plist
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/MacOS/Pref360Control
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/MacOS
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt0.tif
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt1.tif
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt2.tif
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/batt3.tif
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/battNone.tif
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/InfoPlist.strings
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib/classes.nib
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib/info.nib
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib/keyedobjects.nib
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj/Pref360ControlPref.nib
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/English.lproj
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources/Pref360ControlPref.tiff
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents/Resources
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane/Contents
+360ControllerTemp/Library/PreferencePanes/Pref360Control.prefPane
+360ControllerTemp/Library/PreferencePanes
+360ControllerTemp/Library/StartupItems/360ControlDaemon/360ControlDaemon
+360ControllerTemp/Library/StartupItems/360ControlDaemon/360Daemon
+360ControllerTemp/Library/StartupItems/360ControlDaemon/Resources/Alert.tif
+360ControllerTemp/Library/StartupItems/360ControlDaemon/Resources
+360ControllerTemp/Library/StartupItems/360ControlDaemon/StartupParameters.plist
+360ControllerTemp/Library/StartupItems/360ControlDaemon
+360ControllerTemp/Library/StartupItems
+360ControllerTemp/Library
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/Info.plist
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/MacOS/360Controller
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/MacOS
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Info.plist
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/MacOS/Feedback360
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/MacOS
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Resources/English.lproj/InfoPlist.strings
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Resources/English.lproj
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents/Resources
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin/Contents
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/PlugIns/Feedback360.plugin
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/PlugIns
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/Resources/English.lproj/InfoPlist.strings
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/Resources/English.lproj
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents/Resources
+360ControllerTemp/System/Library/Extensions/360Controller.kext/Contents
+360ControllerTemp/System/Library/Extensions/360Controller.kext
+360ControllerTemp/System/Library/Extensions/Wireless360Controller.kext/Contents/Info.plist
+360ControllerTemp/System/Library/Extensions/Wireless360Controller.kext/Contents/MacOS/Wireless360Controller
+360ControllerTemp/System/Library/Extensions/Wireless360Controller.kext/Contents/MacOS
+360ControllerTemp/System/Library/Extensions/Wireless360Controller.kext/Contents/Resources/English.lproj/InfoPlist.strings
+360ControllerTemp/System/Library/Extensions/Wireless360Controller.kext/Contents/Resources/English.lproj
+360ControllerTemp/System/Library/Extensions/Wireless360Controller.kext/Contents/Resources
+360ControllerTemp/System/Library/Extensions/Wireless360Controller.kext/Contents
+360ControllerTemp/System/Library/Extensions/Wireless360Controller.kext
+360ControllerTemp/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Info.plist
+360ControllerTemp/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/MacOS/WirelessGamingReceiver
+360ControllerTemp/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/MacOS
+360ControllerTemp/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Resources/English.lproj/InfoPlist.strings
+360ControllerTemp/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Resources/English.lproj
+360ControllerTemp/System/Library/Extensions/WirelessGamingReceiver.kext/Contents/Resources
+360ControllerTemp/System/Library/Extensions/WirelessGamingReceiver.kext/Contents
+360ControllerTemp/System/Library/Extensions/WirelessGamingReceiver.kext
+360ControllerTemp/System/Library/Extensions
+360ControllerTemp/System/Library
+360ControllerTemp/System
+360ControllerTemp
+"disk1" unmounted.
+"disk1" ejected.
+360ControllerInstall.0.07.dmg
